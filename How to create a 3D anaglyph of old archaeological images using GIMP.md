@@ -11,7 +11,7 @@ So the question is: How do we recreate this using black and white pictures? Or p
 First, we need to find an image.
 ![image](anaglyph_images/)
 
-![image](anaglyph_images/Pasted image 20211217171529.png)
+![image](anaglyph_images/Pasted%20image%2020211217171529.png)
 
 *Workers pushing removed dirt in rail carts. Courtesy Yale University Art Gallery, Dura-Europos Collection, z-92.*
 
