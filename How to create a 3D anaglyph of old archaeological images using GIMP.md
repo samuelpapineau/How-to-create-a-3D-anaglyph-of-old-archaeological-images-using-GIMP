@@ -95,7 +95,7 @@ Then press Shift + B for the bucket tool, then click anywhere on the image. Afte
  
   The colours themselves can sometimes overpower the original image, so it can be necessary to change the transparency to make sure everything is still visible. To do this, click on the layer and lower the "Opacity". I find that for black and white pictures, leaving it at 100% works well, but feel free to experiment with this.
 
-![image](anaglyph_images/Pasted image 20211217190141.png)
+![image](anaglyph_images/Pasted%20image%2020211217190141.png)
 
  
  Lastly, I also recommend changing the default mode of the colouration. This will help prevent either the blue or red from being the dominant colour in the image by making the colours stronger in places where there are shadows. To do this, click on "Mode" and then select "HSL Color", you will need to do this for both layers. You can also use the "LCh Color" option, and in my example, I used "LCh Color" on the red and "HSL Color" on the blue. This is art after all, there are no wrong answers.
