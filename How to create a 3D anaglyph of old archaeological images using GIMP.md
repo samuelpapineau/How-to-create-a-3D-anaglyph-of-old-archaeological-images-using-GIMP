@@ -27,6 +27,7 @@ If you don't already have GIMP, you can download it [here.](https://www.gimp.org
 ## How to edit your image
 <br>
 Once you have installed and opened GIMP, you should see a window that looks like this: 
+
 ![image](anaglyph_images/Pasted%20image%2020211217173055.png)
 
 
