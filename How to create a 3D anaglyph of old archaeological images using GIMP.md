@@ -9,7 +9,8 @@ While creating a 3D anaglyph might seem difficult, it is actually rather easy, a
 So the question is: How do we recreate this using black and white pictures? Or perhaps more importantly, how do we do it for free?
 
 First, we need to find an image.
-
+![image](anaglyph_images/)
+![image](anaglyph_images/Pasted image 20211217171529.png)
 ![[Pasted image 20211217171529.png]]
 *Workers pushing removed dirt in rail carts. Courtesy Yale University Art Gallery, Dura-Europos Collection, z-92.*
 
